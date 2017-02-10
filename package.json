@@ -16,7 +16,5 @@
     "url": "https://github.com/cjordansmith/fcc-nodejs/issues"
   },
   "homepage": "https://github.com/cjordansmith/fcc-nodejs#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
